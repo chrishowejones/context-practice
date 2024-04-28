@@ -1,0 +1,5 @@
+* Context Practice
+
+  This is a repo with examples derived from the Udemy "The Ultimate ReactJs Beginner Course To Advance 2024" course.
+
+  See the readme inside [[file:client/README.md][client/]] directory.
